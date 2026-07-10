@@ -4,8 +4,8 @@
 
 1. Open a `terminal` from the Start Menu
 2. Install Python using the uv package manager `powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"`
-3. Give yourself permissions to run software `Set-Execution Policy ByPass -Scope CurrentUser -Force`
-4. Install git so we can download the notebooks and simulation configurations `winget install --id git.git`
+3. Give yourself permissions to run software `Set-ExecutionPolicy ByPass -Scope CurrentUser -Force`
+4. Install git so we can download the notebooks and simulation configurations `winget install git.git`
 5. Close and open the terminal so the changes take effect
 6. Copy the resources for running the workshop to your computer `git clone --recurse-submodules https://github.com/EuropeanAOSummerSchool/eaoss_workshops.git`. This will create a directory called `eaoss_workshops` on your computer.
 7. Navigate to the `eaoss_workshops` directory by typing `cd eaoss_workshops`
