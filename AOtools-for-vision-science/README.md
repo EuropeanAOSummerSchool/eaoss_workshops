@@ -1,3 +1,3 @@
 # AOtools for vision science
 
-This is a repository for the EAOSS workshop on using AOtools to simulate aberrations found in visual systems.  It covers the generation of PSFs from real data obtained from wavefront measurements (in tabai5mm.fits), the effect of these aberrations on obtained retinal images (foveatedretina.bmp has been generated using ERICA), and calculation of the modulation transfer function or MTF.
+This is a repository for the EAOSS workshop on using AOtools to simulate aberrations found in visual systems.  It covers the generation of PSFs from real data obtained from wavefront measurements (in tabai5mm.fits), the effect of these aberrations on obtained retinal images (foveatedretina.bmp has been generated using ERICA), and calculation of the modulation transfer function or MTF.  It also covers the effect of the confocal pinhole in confocal scanning systems, such as the AOSLO.
