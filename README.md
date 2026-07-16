@@ -14,3 +14,7 @@
 10. Install everything we need to run the workshop software `uv pip install jupyter soapy tqdm`
 
 Everything should now be installed and ready for you to start the workshops.
+
+### Data Analysis Workshops
+
+The data for these workshops can be found [here](https://livenorthumbriaac-my.sharepoint.com/:f:/g/personal/matthew_townson_northumbria_ac_uk/IgDUurERFrl5TqH8XKCQS7fpAeReXVm0MFvU6r3lsPmvf6A?e=foG02e)
